@@ -15,4 +15,4 @@ I would say this was the lab I found most enjoyable merely because I felt the mo
 I felt like I learned the most from this lab while also enjoying the lab completing process. This was the second lab that utilized for loops, and it felt really rewarding completing this one in a smoother manner than the previous one. This is the lab I can most confidently say that my personal improvement in skill was most noticeable.
 
 * Lab 6
-Since this is the lab that introduced command line arguments first, I would say this lab went decently well. Despite it being new material, I never felt super lost doing this lab and was able to at least complete part-1 and do most of part-2 in class. I would consider this lab to be one where I performed fairly well, but not spectacular, across the board.
+Since this is the lab that introduced command line arguments first, I would say this lab went decently well. Despite it being new material, I never felt super lost doing this lab and was able to at least complete part-1 and do most of part-2 in class. I would consider this lab to be one where I performed fairly well, but not spectacular, across the board
