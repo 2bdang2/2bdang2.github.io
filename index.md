@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Brandon Dang and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+This is my home page! My name is Brandon Dang and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. My hope is to graduate in 2-3 years time.
 
 ## Computer Science Projects
 
